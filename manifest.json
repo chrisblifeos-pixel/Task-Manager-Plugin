@@ -1,0 +1,9 @@
+{
+  "id": "task-master",
+  "name": "Task Master",
+  "version": "1.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Google Tasks style manager for Obsidian mobile.",
+  "author": "Gemini",
+  "isDesktopOnly": false
+}
